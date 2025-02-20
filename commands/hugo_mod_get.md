@@ -71,5 +71,5 @@ hugo mod get [flags] [args]
 
 ### SEE ALSO
 
-* [hugo mod](/commands/hugo_mod/)	 - Manage modules
+* [hugo mod](/commands/hugo_mod.md)	 - Manage modules
 

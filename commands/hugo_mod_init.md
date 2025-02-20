@@ -30,7 +30,7 @@ hugo mod init [flags] [args]
   -c, --contentDir string        filesystem path to content directory
   -h, --help                     help for init
       --renderSegments strings   named segments to render (configured in the segments config)
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
 ```
 
 ### Options inherited from parent commands
@@ -52,5 +52,5 @@ hugo mod init [flags] [args]
 
 ### SEE ALSO
 
-* [hugo mod](/commands/hugo_mod/)	 - Manage modules
+* [hugo mod](/commands/hugo_mod.md)	 - Manage modules
 

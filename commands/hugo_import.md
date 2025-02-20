@@ -38,6 +38,6 @@ Import requires a subcommand, e.g. `hugo import jekyll jekyll_root_path target_p
 
 ### SEE ALSO
 
-* [hugo](/commands/hugo/)	 - Build your site
-* [hugo import jekyll](/commands/hugo_import_jekyll/)	 - hugo import from Jekyll
+* [hugo](/commands/hugo.md)	 - Build your site
+* [hugo import jekyll](/commands/hugo_import_jekyll.md)	 - hugo import from Jekyll
 

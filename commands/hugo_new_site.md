@@ -44,5 +44,5 @@ hugo new site [path] [flags]
 
 ### SEE ALSO
 
-* [hugo new](/commands/hugo_new/)	 - Create new content
+* [hugo new](/commands/hugo_new.md)	 - Create new content
 

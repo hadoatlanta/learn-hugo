@@ -40,5 +40,5 @@ hugo list expired [flags] [args]
 
 ### SEE ALSO
 
-* [hugo list](/commands/hugo_list/)	 - List content
+* [hugo list](/commands/hugo_list.md)	 - List content
 

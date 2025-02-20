@@ -25,7 +25,7 @@ hugo mod clean [flags] [args]
   -h, --help                     help for clean
       --pattern string           pattern matching module paths to clean (all if not set), e.g. "**hugo*"
       --renderSegments strings   named segments to render (configured in the segments config)
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
 ```
 
 ### Options inherited from parent commands
@@ -47,5 +47,5 @@ hugo mod clean [flags] [args]
 
 ### SEE ALSO
 
-* [hugo mod](/commands/hugo_mod/)	 - Manage modules
+* [hugo mod](/commands/hugo_mod.md)	 - Manage modules
 

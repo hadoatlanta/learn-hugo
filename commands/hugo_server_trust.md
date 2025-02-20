@@ -37,5 +37,5 @@ hugo server trust [flags] [args]
 
 ### SEE ALSO
 
-* [hugo server](/commands/hugo_server/)	 - Start the embedded web server
+* [hugo server](/commands/hugo_server.md)	 - Start the embedded web server
 

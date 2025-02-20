@@ -24,7 +24,7 @@ hugo gen chromastyles [flags] [args]
       --highlightStyle string           foreground and background colors for highlighted lines, e.g. --highlightStyle "#fff000 bg:#000fff"
       --lineNumbersInlineStyle string   foreground and background colors for inline line numbers, e.g. --lineNumbersInlineStyle "#fff000 bg:#000fff"
       --lineNumbersTableStyle string    foreground and background colors for table line numbers, e.g. --lineNumbersTableStyle "#fff000 bg:#000fff"
-      --style string                    highlighter style (see https://xyproto.github.io/splash/docs/) (default "friendly")
+      --style string                    highlighter style (see https://xyproto.github.io/splash/docs.md) (default "friendly")
 ```
 
 ### Options inherited from parent commands
@@ -46,5 +46,5 @@ hugo gen chromastyles [flags] [args]
 
 ### SEE ALSO
 
-* [hugo gen](/commands/hugo_gen/)	 - Generate documentation and syntax highlighting styles
+* [hugo gen](/commands/hugo_gen.md)	 - Generate documentation and syntax highlighting styles
 

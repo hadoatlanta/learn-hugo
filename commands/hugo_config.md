@@ -26,7 +26,7 @@ hugo config [command] [flags]
       --lang string              the language to display config for. Defaults to the first language defined.
       --printZero                include config options with zero values (e.g. false, 0, "") in the output
       --renderSegments strings   named segments to render (configured in the segments config)
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
 ```
 
 ### Options inherited from parent commands
@@ -48,6 +48,6 @@ hugo config [command] [flags]
 
 ### SEE ALSO
 
-* [hugo](/commands/hugo/)	 - Build your site
-* [hugo config mounts](/commands/hugo_config_mounts/)	 - Print the configured file mounts
+* [hugo](/commands/hugo.md)	 - Build your site
+* [hugo config mounts](/commands/hugo_config_mounts.md)	 - Print the configured file mounts
 

@@ -19,7 +19,7 @@ hugo config mounts [flags] [args]
   -c, --contentDir string        filesystem path to content directory
   -h, --help                     help for mounts
       --renderSegments strings   named segments to render (configured in the segments config)
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
 ```
 
 ### Options inherited from parent commands
@@ -41,5 +41,5 @@ hugo config mounts [flags] [args]
 
 ### SEE ALSO
 
-* [hugo config](/commands/hugo_config/)	 - Display site configuration
+* [hugo config](/commands/hugo_config.md)	 - Display site configuration
 

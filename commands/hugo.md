@@ -60,7 +60,7 @@ hugo [flags]
   -s, --source string              filesystem path to read files relative from
       --templateMetrics            display metrics about template executions
       --templateMetricsHints       calculate some improvement hints when combined with --templateMetrics
-  -t, --theme strings              themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings              themes to use (located in /themes/THEMENAME.md)
       --themesDir string           filesystem path to themes directory
       --trace file                 write trace to file (not useful in general)
   -w, --watch                      watch filesystem for changes and recreate as needed
@@ -68,16 +68,16 @@ hugo [flags]
 
 ### SEE ALSO
 
-* [hugo build](/commands/hugo_build/)	 - Build your site
-* [hugo completion](/commands/hugo_completion/)	 - Generate the autocompletion script for the specified shell
-* [hugo config](/commands/hugo_config/)	 - Display site configuration
-* [hugo convert](/commands/hugo_convert/)	 - Convert front matter to another format
-* [hugo env](/commands/hugo_env/)	 - Display version and environment info
-* [hugo gen](/commands/hugo_gen/)	 - Generate documentation and syntax highlighting styles
-* [hugo import](/commands/hugo_import/)	 - Import a site from another system
-* [hugo list](/commands/hugo_list/)	 - List content
-* [hugo mod](/commands/hugo_mod/)	 - Manage modules
-* [hugo new](/commands/hugo_new/)	 - Create new content
-* [hugo server](/commands/hugo_server/)	 - Start the embedded web server
-* [hugo version](/commands/hugo_version/)	 - Display version
+* [hugo build](/commands/hugo_build.md)	 - Build your site
+* [hugo completion](/commands/hugo_completion.md)	 - Generate the autocompletion script for the specified shell
+* [hugo config](/commands/hugo_config.md)	 - Display site configuration
+* [hugo convert](/commands/hugo_convert.md)	 - Convert front matter to another format
+* [hugo env](/commands/hugo_env.md)	 - Display version and environment info
+* [hugo gen](/commands/hugo_gen.md)	 - Generate documentation and syntax highlighting styles
+* [hugo import](/commands/hugo_import.md)	 - Import a site from another system
+* [hugo list](/commands/hugo_list.md)	 - List content
+* [hugo mod](/commands/hugo_mod.md)	 - Manage modules
+* [hugo new](/commands/hugo_new.md)	 - Create new content
+* [hugo server](/commands/hugo_server.md)	 - Start the embedded web server
+* [hugo version](/commands/hugo_version.md)	 - Display version
 

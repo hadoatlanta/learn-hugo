@@ -43,5 +43,5 @@ hugo convert toYAML [flags] [args]
 
 ### SEE ALSO
 
-* [hugo convert](/commands/hugo_convert/)	 - Convert front matter to another format
+* [hugo convert](/commands/hugo_convert.md)	 - Convert front matter to another format
 

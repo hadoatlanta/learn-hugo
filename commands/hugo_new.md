@@ -43,8 +43,8 @@ Ensure you run this within the root directory of your site.
 
 ### SEE ALSO
 
-* [hugo](/commands/hugo/)	 - Build your site
-* [hugo new content](/commands/hugo_new_content/)	 - Create new content
-* [hugo new site](/commands/hugo_new_site/)	 - Create a new site (skeleton)
-* [hugo new theme](/commands/hugo_new_theme/)	 - Create a new theme (skeleton)
+* [hugo](/commands/hugo.md)	 - Build your site
+* [hugo new content](/commands/hugo_new_content.md)	 - Create new content
+* [hugo new site](/commands/hugo_new_site.md)	 - Create a new site (skeleton)
+* [hugo new theme](/commands/hugo_new_theme.md)	 - Create a new theme (skeleton)
 

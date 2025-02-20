@@ -38,10 +38,10 @@ List requires a subcommand, e.g. hugo list drafts
 
 ### SEE ALSO
 
-* [hugo](/commands/hugo/)	 - Build your site
-* [hugo list all](/commands/hugo_list_all/)	 - List all content
-* [hugo list drafts](/commands/hugo_list_drafts/)	 - List draft content
-* [hugo list expired](/commands/hugo_list_expired/)	 - List expired content
-* [hugo list future](/commands/hugo_list_future/)	 - List future content
-* [hugo list published](/commands/hugo_list_published/)	 - List published content
+* [hugo](/commands/hugo.md)	 - Build your site
+* [hugo list all](/commands/hugo_list_all.md)	 - List all content
+* [hugo list drafts](/commands/hugo_list_drafts.md)	 - List draft content
+* [hugo list expired](/commands/hugo_list_expired.md)	 - List expired content
+* [hugo list future](/commands/hugo_list_future.md)	 - List future content
+* [hugo list published](/commands/hugo_list_published.md)	 - List published content
 

@@ -33,7 +33,7 @@ hugo mod npm pack [flags] [args]
   -c, --contentDir string        filesystem path to content directory
   -h, --help                     help for pack
       --renderSegments strings   named segments to render (configured in the segments config)
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
 ```
 
 ### Options inherited from parent commands
@@ -55,5 +55,5 @@ hugo mod npm pack [flags] [args]
 
 ### SEE ALSO
 
-* [hugo mod npm](/commands/hugo_mod_npm/)	 - Various npm helpers
+* [hugo mod npm](/commands/hugo_mod_npm.md)	 - Various npm helpers
 

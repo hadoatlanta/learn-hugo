@@ -66,7 +66,7 @@ hugo server [command] [flags]
       --renderStaticToDisk       serve static files from disk and dynamic files from memory
       --templateMetrics          display metrics about template executions
       --templateMetricsHints     calculate some improvement hints when combined with --templateMetrics
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
       --tlsAuto                  generate and use locally-trusted certificates.
       --tlsCertFile string       path to TLS certificate file
       --tlsKeyFile string        path to TLS key file
@@ -93,6 +93,6 @@ hugo server [command] [flags]
 
 ### SEE ALSO
 
-* [hugo](/commands/hugo/)	 - Build your site
-* [hugo server trust](/commands/hugo_server_trust/)	 - Install the local CA in the system trust store
+* [hugo](/commands/hugo.md)	 - Build your site
+* [hugo server trust](/commands/hugo_server_trust.md)	 - Install the local CA in the system trust store
 

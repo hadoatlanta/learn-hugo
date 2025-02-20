@@ -33,7 +33,7 @@ hugo new content [path] [flags]
   -h, --help                     help for content
   -k, --kind string              content type to create
       --renderSegments strings   named segments to render (configured in the segments config)
-  -t, --theme strings            themes to use (located in /themes/THEMENAME/)
+  -t, --theme strings            themes to use (located in /themes/THEMENAME.md)
 ```
 
 ### Options inherited from parent commands
@@ -55,5 +55,5 @@ hugo new content [path] [flags]
 
 ### SEE ALSO
 
-* [hugo new](/commands/hugo_new/)	 - Create new content
+* [hugo new](/commands/hugo_new.md)	 - Create new content
 

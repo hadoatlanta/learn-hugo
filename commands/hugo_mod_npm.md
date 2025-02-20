@@ -40,6 +40,6 @@ hugo mod npm [command] [flags]
 
 ### SEE ALSO
 
-* [hugo mod](/commands/hugo_mod/)	 - Manage modules
-* [hugo mod npm pack](/commands/hugo_mod_npm_pack/)	 - Experimental: Prepares and writes a composite package.json file for your project
+* [hugo mod](/commands/hugo_mod.md)	 - Manage modules
+* [hugo mod npm pack](/commands/hugo_mod_npm_pack.md)	 - Experimental: Prepares and writes a composite package.json file for your project
 
